@@ -2,7 +2,7 @@
 ├─ index.html                  # Página inicial do portefólio
 ├─ projetos/
 │  ├─ index.html               # Lista de projetos
-│  ├─ projeto-1/index.html
+│  ├─ CIS/index.html
 │  ├─ projeto-2/index.html
 │  └─ ...
 ├─ assets/
