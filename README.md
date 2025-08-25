@@ -1,9 +1,9 @@
-# Spencer's [website](https://spencerpao.github.io/)
+# Pedro's [website](https://Portefolio.github.io/)
 
 Used from the al-folio template mentioned below.
 
 ---
-# al-folio
+# Portefolio
 
 [![build status](https://travis-ci.org/alshedivat/al-folio.svg?branch=master)](https://travis-ci.org/alshedivat/al-folio)
 [![demo](https://img.shields.io/badge/theme-demo-brightgreen.svg)](https://alshedivat.github.io/al-folio/)
