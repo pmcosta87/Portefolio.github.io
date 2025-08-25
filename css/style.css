@@ -1,7 +1,0 @@
-:root { --max: 960px; }
-* { box-sizing: border-box; }
-body { font-family: system-ui, sans-serif; line-height: 1.6; margin: 0; }
-header, footer { padding: 1rem; }
-nav a { margin-right: 1rem; text-decoration: none; }
-main { max-width: var(--max); margin: auto; padding: 1.5rem; }
-img { max-width: 100%; height: auto; border-radius: 12px; }
